@@ -1,6 +1,6 @@
 def game_hash
     hash = {
-      home: = {
+      home:  {
         team_name: "Booklyn Nets",
         colors: ["Black", "White"],
         players: [
@@ -67,7 +67,7 @@ def game_hash
         ]
       }
 
-      away: = {
+      away:  {
         team_name: "Charlotte Hornets",
         colors: ["Turquoise", "Purple"],
         players: [
